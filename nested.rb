@@ -111,7 +111,11 @@ def changing_alan
   programmer_hash[:alan_kay][:known_for] = alans_new_info
   
 
+<<<<<<< HEAD
  programmer_hash
+=======
+ programmer_hash[:alan_kay][:known_for]
+>>>>>>> a779f720670b0a7ad1b4c7ea596ff231286c5b7b
 end
 
 
